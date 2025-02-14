@@ -1,0 +1,1 @@
+Gere uma sentença.
